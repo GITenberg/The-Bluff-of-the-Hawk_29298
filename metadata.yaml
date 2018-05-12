@@ -1,0 +1,27 @@
+_repo: The-Bluff-of-the-Hawk_29298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilmore, Anthony
+    gutenberg_agent_id: '33822'
+    url: http://www.gutenberg.org/2009/agents/33822
+description: A trick? Carse was famed for them. A trap? But how?
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Bluff of the Hawk
+url: http://www.gutenberg.org/ebooks/29298
